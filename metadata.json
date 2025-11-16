@@ -1,0 +1,5 @@
+{
+  "name": "Our Barishal AI Chatbot",
+  "description": "An AI-powered chat widget for 'Our Barishal'. Features include user registration, chat history, theme customization, and special commands, all powered by the Gemini API.",
+  "requestFramePermissions": []
+}
